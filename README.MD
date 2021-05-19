@@ -6,7 +6,7 @@ Hangman is a popular word guessing game where the player attempts to build a mis
 You can try playing the game here https://hangmanwordgame.com/
 
 --- 
-### SETUP THE GAME CODE.
+### SET UP THE GAME CODE.
 
   * install git
   * `git clone https://github.com/devs-nest/hangman-test.git`
@@ -19,7 +19,7 @@ You can try playing the game here https://hangmanwordgame.com/
   * open `hangman.py`
   * Read the comments inside hangman function and read the code, to understand you can also use a debugger.
 
-  ### Task 2 (LOPPING)
+  ### Task 2 (LOOPING)
   When you run this program it will only take user's input once and then will stop
   * You have to take multiple inputs from the user, use a loop for this.
   * Statements like "welcome to the game" should only be printed once, take a note of this
@@ -37,10 +37,10 @@ You can try playing the game here https://hangmanwordgame.com/
   * count number of wrong input's given by the user.
   * use it select image from the list
   * print the image on the console.
-  * Create a seperate function for this and call it from hangman
+  * Create a separate function for this and call it from hangman
   
   ### TASK 5 (AVAILABLE LETTERS)
-  Availabe Letters are the letters which have not been guessed by the user,
+  Available Letters are the letters which have not been guessed by the user,
   for eg if the user has guessed `['e', 'a']` then it should return `bcdfghijklmnopqrstuvwxyz`
 
   * Complete get_available_letters function
