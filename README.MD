@@ -103,7 +103,7 @@ the user has not guessed and is present in the string.
 ### TESTING
 
 * Go to project directory in terminal
-* ```python -m unittest -v test```
+* ```python -m unittest -v test_hangman```
 
   
 
